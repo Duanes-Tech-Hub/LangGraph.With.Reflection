@@ -1,4 +1,4 @@
-# 🚀LangGraph: A LangChain-based Tweet Generato with Self-Reflection
+# 🚀LangGraph: A LangChain-based Tweet Generator with Self-Reflection
 
 Though this project is about reflection in the generation of tweets it is a foundational piece in having your LLM reflect on what it has created and producting something better. I see this for use in blogs, articles, tweets, emails, etc.. This implementation is focused on a content creation system that generates, critiques, and iteratively improves Twitter posts for maximum engagement using LangChain and Google Gemini AI.
 
